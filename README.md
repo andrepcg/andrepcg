@@ -2,7 +2,10 @@
 
 My name is André Gonçalves and I'm a Software engineer specialized in Full-stack we development 🚀. Love web development and to learn new tech. Born and raised in Portugal, currently living in Coimbra and working at [RedLight Software][4]. You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], [![Gitlab][4.2]][8] and my [personal website][5].
 
+## ⚙️ Projects
 
+- [Roasted.email][10]: disposable email and phone numbers service
+- [Diurna.pt][11]: Portuguese news archive
 
 ## ✍️ Posts
 
@@ -42,6 +45,8 @@ You can find my articles on [Medium][6] and [on my blog][5], but here's a few:
 [7]: https://andrepcg.top/using-scenic-and-sql-views-to-aggregate-data/
 [8]: https://gitlab.com/andrepcg
 [9]: https://docs.google.com/presentation/d/198W0F1ZYDM_tDEux9QbU6GWkXngYoAWQAQZG7jX115o/edit?usp=sharing
+[10]: https://roasted.email
+[11]: https://diurna.pt
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
