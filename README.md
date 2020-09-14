@@ -1,6 +1,6 @@
 ### Hello world 👋 🌍
 
-My name is André Gonçalves and I'm a Software engineer specialized in Full-stack we development 🚀. Love web development and to learn new tech. Born and raised in Portugal, currently living in Coimbra and working at [RedLight Software][4]. You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], [![Gitlab][4.2]][8] and my [personal website][5].
+My name is André Gonçalves and I'm a Software engineer specialized in Full-stack web development 🚀. Love web development and to learn new tech. Born and raised in Portugal, currently living in Coimbra and working at [Leadfeeder][4]. You can find me on [![Twitter][1.2]][1], [![LinkedIn][3.2]][3], [![Gitlab][4.2]][8] and my [personal website][5].
 
 ## ⚙️ Projects
 
@@ -39,7 +39,7 @@ You can find my articles on [Medium][6] and [on my blog][5], but here's a few:
 [1]: https://twitter.com/andrepcg
 [2]: https://github.com/andrepcg
 [3]: https://www.linkedin.com/in/andrepcg/
-[4]: https://weareredlight.com
+[4]: https://leadfeeder.com
 [5]: https://andrepcg.top
 [6]: https://medium.com/@andrepcg
 [7]: https://andrepcg.top/using-scenic-and-sql-views-to-aggregate-data/
